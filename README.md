@@ -7,6 +7,7 @@ https://github.com/IvanKolchanov/ImageToSymbols1.0
   - implement parallel processing for frames during convertion to lower time
   - implement parallel processing for next frame during play to stabilize fps
   - implement colorful and black&white video
+  - make compression algorithm more efficient
 
 ## Main goal of the project: converting a video to a file, that then could be replayed at any time as a video consisting of symbols
 ## Features:
