@@ -36,9 +36,20 @@ The menu displays all of the .vts files saved in the /video folder of the applic
 https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/a8e40ebf-f2ec-4d89-a535-b1e6e9f1e0bf
 ### 16 symbols, 4-bit convertion ():
 
+https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/03302e30-c166-488c-b8d5-dac1201c164a
+
 ### 8 symbols, 3-bit convertion ():
 
+https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/2411adb0-752a-4ac7-8e79-ddbce722dc93
+
 ### 4 symbols, 2-bit convertion ():
+
+https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/70be614c-9367-46d0-bcfd-463584270490
+
+### 16 symbols, 4-bit convertion () with better quality by making the font smaller:
+
+https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/9f56ed14-7eee-4a3f-b2e3-077ccfc40261
+
 
 
 
