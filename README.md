@@ -21,10 +21,12 @@
 ![image](https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/e8721e9a-3e7e-471d-b24a-db23e6ace822) <br>
 After choosing the convertion settings user sees the menu which shows information about the convertion progress and estimated time left. 
 
-## File play menu:
+## File play menu: <br>
+![image](https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/f9d2dd7c-3d63-4966-a26b-d96cac4c36c7)
+
 The menu displays all of the .vts files saved in the /video folder of the application. To chose between files the user need to use arrows and depending on the size of the font used when converting the user might need to change current font size to play the video (playablitiy of the video is showed by the tick/cross near it, along with other parameters).
 
-## Examples
+## Examples:
 ### Original video (720x720, 60fps): <br>
 https://github.com/IvanKolchanov/VideoToSymbols/assets/83294629/a8e40ebf-f2ec-4d89-a535-b1e6e9f1e0bf
 ### 16 symbols, 4-bit convertion ():
