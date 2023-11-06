@@ -1,4 +1,9 @@
 # VideoToSymbols
+## Planned development:
+  - implement parallel processing for frames during convertion to lower time
+  - implement parallel processing for next frame during play to stabilize fps
+  - implement colorful and black&white video
+
 ## Main goal of the project: converting a video to a file, that then could be replayed at any time as a video consisting of symbols
 ## Features:
   - converting a video to symbols of three formats (4 symbols (2-bit), 8 symbols (3-bit), 16 symbols (4-bit))
