@@ -1,4 +1,5 @@
 # VideoToSymbols
+## Creative Graphics: 2D/3D Simulation Framework for Images and Objects
 ## Related projects: 
 https://github.com/IvanKolchanov/AnalyzingBrigthnessOfSymbols
 https://github.com/IvanKolchanov/ImageToSymbols1.0
